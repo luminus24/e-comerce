@@ -1,0 +1,8 @@
+.active-link{
+    padding: 10px;
+    background-color: rgb(94, 172, 218);
+    border-radius: 20px;
+    color: white;
+    font-size: 30px;
+}
+

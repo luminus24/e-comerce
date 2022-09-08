@@ -1,0 +1,22 @@
+.card-purchase{
+    background-color: rgb(224, 160, 137);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.card-purchase__date{
+    font-size: 1.5em;
+    position: absolute;
+    margin-top: 20px;
+    right: 120px;
+}
+
+.card-purchase__name{
+    font-size: 20px;
+    margin: 10px 10px;
+}
+
+.card-purchase__quantity{
+    margin: 40px ;
+}

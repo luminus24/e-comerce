@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    background-color: rgba(77, 77, 138, 0.404);
+    justify-content: space-between;
+}
+.header-logo{
+    color: rgb(233, 70, 70);
+    display: block;
+    padding: 20px 25px;
+    font-weight: 700;
+}
+.header-nav{
+    width: 50%;
+}
+.header-list{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0px;
+    margin-left: 270px ;
+    width: 50%;
+    font-size: 1.4em;
+}
